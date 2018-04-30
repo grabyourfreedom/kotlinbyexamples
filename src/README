@@ -1,0 +1,15 @@
+Learn Kotlin by Examples
+by
+Lakshmi Narayanan Narasimhan (http://unstuck.grabyourfreedom.in)
+
+1. Each exercise are tiny and you should be able to complete one exercise in few minutes. Some of the exercises would
+only take less than a minute
+2. Walk through the code. It is important that you read the comments. Try to alter the program logic for your own
+understanding
+3. The exercises are written while learning Kotlin. So, the exercises might be very primitive. It is written keeping
+the newbies in mind.
+4. If you have some programs to contribute, write it and raise a pull request.
+5. The exercises are written with the help of IntelliJ Community edition (so, it was easy to write)
+6. Each exercise is independent unit and I did not use any build tools (neither planning to use one). I would like
+to keep it KISS - Keep It Simple and Stupid
+7. This README is written as and when I get a thought. So it might not be coherent
