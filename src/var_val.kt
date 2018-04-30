@@ -1,6 +1,6 @@
 /** This a simple program to demonstrate "val" and "var" in Kotlin
  *  val is immutable meaning that you cannot reassign a value once assigned.
- *  var is mutable meaning that you can assign/reasign
+ *  var is mutable meaning that you can assign/reassign
  */
 
 fun main(args : Array<String>) {
