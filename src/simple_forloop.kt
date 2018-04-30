@@ -1,7 +1,7 @@
 /** This program like any other program is a simple program
  *  that demonstrates how a for loop looks like and works. Shortly later,
  *  we will see little advanced usage of for loops, iterate over
- *  items in a collection
+ *  items in a collection.
  */
 
 fun main(args: Array<String>) {
