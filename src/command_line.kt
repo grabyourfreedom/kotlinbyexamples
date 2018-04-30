@@ -1,5 +1,6 @@
 /* This is a simple program that prints the arguments
- * passed to the programs one by one.
+ * passed to the programs one by one. This is no different
+ * than Java
  */
 
 fun main(args: Array<String>) {
