@@ -1,13 +1,13 @@
 /* This is a simple program that prints the arguments
- * passed to the programs one by one. This is no different
- * than Java
+ * passed to the programs one by one. There is no big difference
+ * between other programs and Kotlin
  */
 
 fun main(args: Array<String>) {
 
     /* Notice here, we are printing the number of elements in the array
      * ${args.size} inside the double quotes. Kotlin automatically
-     * formats it for you
+     * formats it for you (More on this later)
      */
 
     println("Number of arguments - ${args.size}")
@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
     }
 }
 
-/* Did you observe the having a class definition is not mandatory
+/* Did you observe that having a class definition is not mandatory.
  * You can write a code like you write in a procedural language like
- * C or C++ (very much like a Python)
+ * C (very much like a Python, C++)
  */
