@@ -13,7 +13,7 @@ fun main(args : Array<String>) {
     // a value
     var mutable : Int
 
-    // Assign a value to "val". Note, we cannot change it any further once assigned
+    // Assign a value to "val" (for the very first time). Note, we cannot change it any further once assigned
     immutable = 123
 
     // Assign a value to "var".

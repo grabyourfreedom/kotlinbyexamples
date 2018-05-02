@@ -10,9 +10,9 @@ command line arguments. If the name is not passed, print a generic name like "He
 5. Write a program to find the greatest of two numbers
 6. Write a program to find the greatest of three numbers
 7. Write a program to find the greatest of "N" numbers
+8. Write a program to demonstrate the concept of "var" and "val"
 
 <to do>
-8. Write a program to demonstrate the concept of "var" and "val"
 9. Write a program to demonstrate "when" conditional branching
 10. Write a program to demonstrate "while" loop
 11. Write a program to demonstrate how the loops can be labelled
