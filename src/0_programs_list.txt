@@ -1,0 +1,22 @@
+1. Write a program that prints the words - "Hello, World".
+2. Write a program that greets the user by their first name. For example, "Hello, Ram". Try getting the name through
+command line arguments. If the name is not passed, print a generic name like "Hello, Friend"
+3. Write a program to print all the command line arguments
+4. Write a program to do the following.
+    a. To print the numbers between 1 and 10
+    b. To print the even numbers between 2 and 20
+    c. To print the numbers between 1 and 10 in reverse order
+    d. To print the even numbers between 2 and 20 in reverse order
+5. Write a program to find the greatest of two numbers
+6. Write a program to find the greatest of three numbers
+7. Write a program to find the greatest of "N" numbers
+
+<to do>
+8. Write a program to demonstrate the concept of "var" and "val"
+9. Write a program to demonstrate "when" conditional branching
+10. Write a program to demonstrate "while" loop
+11. Write a program to demonstrate how the loops can be labelled
+12. Given an array and number "N", write a function that returns "Nth" largest element in the array
+13. Given two strings, concatenate two strings and return it
+14. Given a string, write a function that returns word count
+15.
