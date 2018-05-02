@@ -1,6 +1,6 @@
 /* This is a simple program that prints the arguments
  * passed to the programs one by one. There is no big difference
- * between other programs and Kotlin
+ * between other languages and Kotlin
  */
 
 fun main(args: Array<String>) {
@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
 
     /* Check out the simple for loop. In each iteration of
     * for loop, the value at the each index is assigned to
-    * arg which gets printed
+    * arg which gets printed (some like Python?)
     *
     */
     for (arg in args) {
@@ -24,5 +24,5 @@ fun main(args: Array<String>) {
 
 /* Did you observe that having a class definition is not mandatory.
  * You can write a code like you write in a procedural language like
- * C (very much like a Python, C++)
+ * C (very much like a Python, C++). OO is not pushed on to you.
  */
